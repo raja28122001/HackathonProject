@@ -1,0 +1,59 @@
+17:40:45.361 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:40:45.498 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:40:51.643 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:41:30.552 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:41:30.736 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:41:30.933 [main] INFO  stepDefinitions.Hooks - Selected amount :5000
+17:41:31.025 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:41:34.619 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:41:36.705 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:41:36.706 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:41:36.783 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:41:43.338 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:42:22.323 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:42:22.481 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:42:22.577 [main] INFO  stepDefinitions.Hooks - Selected amount :1000
+17:42:22.654 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:42:25.831 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:42:27.946 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:42:27.947 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:42:28.029 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:42:34.657 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:43:13.925 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:43:14.087 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:43:14.224 [main] INFO  stepDefinitions.Hooks - Selected amount :1000
+17:43:14.323 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:43:17.701 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:43:19.944 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:43:19.945 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:43:20.083 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:43:26.409 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:44:05.551 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:44:05.700 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:44:05.823 [main] INFO  stepDefinitions.Hooks - Selected amount :1000
+17:44:05.897 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:44:09.108 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:44:11.174 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:44:11.174 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:44:11.263 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:44:16.624 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:44:55.801 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:44:55.965 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:44:56.077 [main] INFO  stepDefinitions.Hooks - Selected amount :2000
+17:44:56.164 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:44:59.526 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:45:01.626 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:45:01.626 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:45:01.700 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:45:07.717 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:45:46.665 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:45:46.814 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
+17:45:46.926 [main] INFO  stepDefinitions.Hooks - Selected amount :5000
+17:45:47.012 [main] INFO  stepDefinitions.Hooks - Clicked next button
+17:45:50.546 [main] INFO  stepDefinitions.Hooks - provided all details in the form section
+17:45:52.619 [main] INFO  stepDefinitions.Hooks - Clicked confirm button
+17:45:52.619 [main] INFO  stepDefinitions.Hooks - Validating the testCase
+17:45:52.690 [main] INFO  stepDefinitions.Hooks -   ==>Test TC003_ValidatingGiftCardsSection Passed
+17:45:59.159 [main] INFO  stepDefinitions.Hooks - ******TC003__ValidatingGiftCardsSection started*********
+17:46:38.137 [main] INFO  stepDefinitions.Hooks - Navigated to GiftCard section
+17:46:38.261 [main] INFO  stepDefinitions.Hooks - Selected Ocassion :Birthday/Anniversary
